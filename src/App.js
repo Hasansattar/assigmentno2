@@ -5,7 +5,7 @@ function App() {
     <div className="App">
        <h1>hello world</h1>
        <h2>MY NAME IS HASAN FROM FAISLABAD</h2>
-       <P>this is my second assigment</P>
+       <p> this is my second assigment </p>
     </div>
   );
 }
